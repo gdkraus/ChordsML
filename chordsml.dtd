@@ -1,0 +1,18 @@
+<!ELEMENT ChordsML (copyright?, intro?, body)>
+<!ATTLIST ChordsML
+   title CDATA #REQUIRED
+   author  CDATA #IMPLIED
+   key CDATA #IMPLIED>
+<!ELEMENT body (#PCDATA|verse|chorus)* >
+<!ELEMENT verse (#PCDATA|line)* >
+<!ATTLIST verse
+   n CDATA #IMPLIED>
+<!ELEMENT chorus (#PCDATA|line)* >
+<!ELEMENT line (#PCDATA|c)* >
+
+
+<!ELEMENT c   EMPTY >
+<!ATTLIST c  
+ r CDATA #REQUIRED
+ n CDATA #IMPLIED
+ b CDATA #IMPLIED >

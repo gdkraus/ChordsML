@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="chords.xsl"?>
+<!DOCTYPE ChordsML SYSTEM "http://opus34.com/chordsml/chordsml.dtd">
+
+<ChordsML title="This Land is Your Land" author="Woody Guthrie" key="D">
+
+
+<body>
+    <chorus>
+        <line><c r="D" />This land is <c r="G" />your land, this land is <c r="D" />my land</line>
+        <line>From Cali<c r="A" n="7" />fornia, to the New York <c r="D" />Island</line>
+        <line>From the redwood <c r="G" />forest, to the gulf stream <c r="D" />waters</line>
+        <line><c r="A" n="7" />This land was made for you and <c r="D" />me</line>
+    </chorus>
+
+    <verse n="1">
+        <line><c r="D" />As I was <c r="G" />walking a ribbon of highway</line>
+        <line>I saw a<c r="A" n="7" />bove me an endless <c r="D" />skyway</line>
+        <line>I saw be<c r="G" />low me a golden <c r="D" />valley</line>
+        <line><c r="A" n="7" />This land was made for you and <c r="D" />me</line>
+    </verse>
+
+    <chorus />
+
+    <verse n="2">
+        <line><c r="D" />I roamed and <c r="G" />rambled, and followed my <c r="D" />footsteps</line>
+        <line>Through the sparkling <c r="A" n="7" />sands of her diamond <c r="D" />deserts,</line>
+        <line>And all a<c r="G" />round me this voice kept <c r="D" />saying,</line>
+        <line><c r="A" n="7" />"This land was made for you and <c r="D" />me."</line>
+    </verse>
+
+    <chorus />
+
+    <verse n="3">
+        <line><c r="D" />As the Sun was <c r="G" />shining, and I was <c r="D" />strolling</line>
+        <line>Through the wheat fields <c r="A" n="7" />waving and the dust clouds <c r="D" />rolling,</line>
+        <line>I could feel in<c r="G" />side me and see all a<c r="D" />round me,</line>
+        <line><c r="A" n="7" />This land was made for you and <c r="D" />me</line>
+    </verse>
+
+    <chorus />
+
+
+</body>
+</ChordsML>
