@@ -7,7 +7,7 @@ This is a work in progress. It is currently functional, albeit a little utilitar
 
 Format
 
-<c r="A" q="m" n="7" b="D" />
+&gt;c r="A" q="m" n="7" b="D" /&lt;
 
 c = chord
 
@@ -19,4 +19,4 @@ n = number
 
 b = bass note
 
-<c r="A" q="m" n="7" b="D" /> = Am7/D
+&gt;c r="A" q="m" n="7" b="D" /&gt; = Am7/D
